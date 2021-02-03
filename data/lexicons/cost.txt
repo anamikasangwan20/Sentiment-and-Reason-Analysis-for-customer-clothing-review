@@ -1,0 +1,6 @@
+cost
+price
+expensive
+sale
+worth
+money

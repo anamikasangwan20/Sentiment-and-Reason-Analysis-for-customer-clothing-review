@@ -1,0 +1,32 @@
+fit
+fits
+fitting
+length
+size
+long
+small
+tight
+loose
+baggy
+boxy
+snug
+medium
+longer
+true to size
+size up
+size down
+tts
+swimming
+m
+xs
+xxs
+s
+l
+xl
+xxl
+pxs
+p0
+p00
+00
+xsmall
+

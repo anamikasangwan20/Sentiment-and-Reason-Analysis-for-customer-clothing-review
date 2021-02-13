@@ -1,11 +1,3 @@
-#!/usr/bin/env python2
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Nov 27 16:11:27 2018
-
-@author: anamika
-"""
-
 from util import read_data, naive_bayes_learner, naive_bayes_classifier
 from sklearn.model_selection import train_test_split
 import numpy as np

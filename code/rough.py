@@ -1,9 +1,3 @@
-##!/usr/bin/env python2
-## -*- coding: utf-8 -*-
-#"""
-#Created on Tue Nov 27 18:06:28 2018
-#
-#@author: anamika
 #"""
 ####FEATURE GENERATION:
 ##

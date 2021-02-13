@@ -1,11 +1,3 @@
-#!/usr/bin/env python2
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Nov 27 16:10:19 2018
-
-@author: anamika
-"""
-
 import pandas as pd
 from nltk.tokenize import word_tokenize
 from math import log

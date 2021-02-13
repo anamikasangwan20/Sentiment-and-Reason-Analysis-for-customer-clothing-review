@@ -1,11 +1,3 @@
-#!/usr/bin/env python2
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Nov 30 19:32:31 2018
-
-@author: anamika
-"""
-
 ##Plots for Baseline 3 versions:
 
 import matplotlib.pyplot as plt; plt.rcdefaults()

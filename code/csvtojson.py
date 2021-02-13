@@ -1,11 +1,3 @@
-#!/usr/bin/env python2
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Nov 29 19:06:03 2018
-
-@author: anamika
-"""
-
 ##CSV to JSON convert:
 import csv
 import json
